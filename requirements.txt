@@ -1,0 +1,2 @@
+# Mochi Pet uses only the Python standard library (tkinter + urllib).
+# Python 3.9+ on Windows/macOS/Linux. On Linux install python3-tk.
